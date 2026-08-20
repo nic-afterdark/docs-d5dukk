@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-csft8y.congtogel68uio.site/sitemap.xml
